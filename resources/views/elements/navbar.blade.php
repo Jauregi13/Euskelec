@@ -7,7 +7,7 @@
     <div class="collapse navbar-collapse" id="navbarResponsive">
       <ul class="navbar-nav ml-auto">
             <li class="nav-item">
-              <a class="nav-link js-scroll-trigger" href="#about">¿Qué es Euskelec?</a>
+              <a class="nav-link js-scroll-trigger" href="#euskelec">¿Qué es Euskelec?</a>
             </li>
             <li class="nav-item">
               <a class="nav-link js-scroll-trigger" href="#projects">Sobre Nosotros</a>

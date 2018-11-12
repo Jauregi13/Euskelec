@@ -154,12 +154,12 @@
 .btn-primary:active{
 	background-color:#171DA5!important
 }
-.about-section{
+.euskelec{
 	padding-top:10rem;
 	background:-webkit-gradient(linear,left top,left bottom,from(#161616),color-stop(75%,rgba(22,22,22,.9)),to(rgba(22,22,22,.8)));
 	background:linear-gradient(to bottom,#161616 0,rgba(22,22,22,.9) 75%,rgba(22,22,22,.8) 100%)
 }
-.about-section p{
+.euskelec p{
 	margin-bottom:5rem
 }
 .projects-section{
@@ -229,6 +229,10 @@
 	border-width:.25rem;
 	width:3rem
 }
+footer{
+	padding:5rem 0
+}
+
 footer .social{
 	margin-top:3rem;
 	margin-bottom:3rem;
@@ -267,7 +271,4 @@ a:focus,a:hover{
 }
 .text-primary{
 	color:#64a19d!important
-}
-footer{
-	padding:5rem 0
 }

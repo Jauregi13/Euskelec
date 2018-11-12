@@ -3,8 +3,8 @@
 @section('titulo','Euskelec')
 
 @section('contenido')
-<!-- About Section -->
-<section id="about" class="about-section text-center">
+<!-- Que es Euskelec -->
+<section id="euskelec" class="euskelec text-center">
   <div class="container">
     <div class="row">
       <div class="col-lg-8 mx-auto">
@@ -17,7 +17,7 @@
 </section>
 
 
-<!-- Projects Section -->
+<!-- Sobre nosotros -->
     <section id="projects" class="projects-section bg-light">
       <div class="container">
 
@@ -55,7 +55,7 @@
         <!-- Project Two Row -->
         <div class="row justify-content-center no-gutters">
           <div class="col-lg-6">
-            <img class="img-fluid" src="img/demo-image-02.jpg" alt="">
+            <img class="img-fluid" src="img/euskelec.jpg" alt="">
           </div>
           <div class="col-lg-6 order-lg-first">
             <div class="bg-black text-center h-100 project">
