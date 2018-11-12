@@ -18,7 +18,7 @@
 
 
 <!-- Sobre nosotros -->
-    <section id="projects" class="projects-section bg-light">
+    <section id="nosotros" class="seccion-nosotros bg-light">
       <div class="container">
 
         <!-- Featured Project Row -->
@@ -28,8 +28,8 @@
           </div>
           <div class="col-xl-4 col-lg-5">
             <div class="featured-text text-center text-lg-left">
-              <h4>Shoreline</h4>
-              <p class="text-black-50 mb-0">Grayscale is open source and MIT licensed. This means you can use it for any project - even commercial projects! Download it, customize it, and publish your website!</p>
+              <h4>¿Para qué servirá esta aplicación?</h4>
+              <p class="text-black-50 mb-0">Esta aplicación ha sido creada para mostrar la información que nos pasan los equipos, a través de los sensores instalados en los coches, sobre la preparación de sus coches para la competición. Se mostrará de forma clara y ordenada a la vez que atractiva</p>
             </div>
           </div>
         </div>
@@ -44,7 +44,7 @@
               <div class="d-flex h-100">
                 <div class="project-text w-100 my-auto text-center text-lg-left">
                   <h4 class="text-white">Estadísticas</h4>
-                  <p class="mb-0 text-white-50">An example of where you can put an image of a project, or anything else, along with a description.</p>
+                  <p class="mb-0 text-white-50">La información de cada sensor lo mostraremos en gráficos para que se pueda ver de manera gráfica la evolución del progreso del coche</p>
                   <hr class="d-none d-lg-block mb-0 ml-0">
                 </div>
               </div>
@@ -62,7 +62,7 @@
               <div class="d-flex h-100">
                 <div class="project-text w-100 my-auto text-center text-lg-right">
                   <h4 class="text-white">Campeonatos</h4>
-                  <p class="mb-0 text-white-50">Another example of a project with its respective description. These sections work well responsively as well, try this theme on a small screen!</p>
+                  <p class="mb-0 text-white-50">Estará la posibilidad de organizar carreras entre los equipos de la plataforma para hacer un testeo mejor de cada coche</p>
                   <hr class="d-none d-lg-block mb-0 mr-0">
                 </div>
               </div>

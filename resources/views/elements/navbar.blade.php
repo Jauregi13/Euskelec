@@ -10,7 +10,7 @@
               <a class="nav-link js-scroll-trigger" href="#euskelec">¿Qué es Euskelec?</a>
             </li>
             <li class="nav-item">
-              <a class="nav-link js-scroll-trigger" href="#projects">Sobre Nosotros</a>
+              <a class="nav-link js-scroll-trigger" href="#nosotros">Sobre Nosotros</a>
             </li>
             <li class="nav-item">
               <a class="nav-link js-scroll-trigger" href="#signup">Contáctanos</a>
